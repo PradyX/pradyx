@@ -1,7 +1,7 @@
 ### Hi there! I'm Prady 👋
 
 <!-- ![Prady's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradyx&show_icons=true&count_private=true&show_icons=true) -->
-![profile count](https://komarev.com/ghpvc/?username=pradyx&color=red)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=pradyx&color=blueviolet)&nbsp;
 [![GitHub Prady](https://img.shields.io/github/followers/pradyx?label=follow&style=social)](https://github.com/pradyx)&nbsp;
 
 ### 🛠 &nbsp;Tech Stack
