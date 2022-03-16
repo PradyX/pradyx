@@ -6,8 +6,8 @@
 
 <p align="center">
 <a href="https://github.com/pradyx">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pradyx&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pradyx&layout=compact&langs_count=8&theme=calm"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pradyx&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pradyx&layout=compact&langs_count=8&theme=buefy"/>
 </a>
 </p>
 
